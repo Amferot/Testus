@@ -7,17 +7,21 @@
 	border: 0;
 	box-sizing: border-box;
 }
+
 a {
 	text-decoration: none;
 }
+
 ul,
 ol,
 li {
 	list-style: none;
 }
+
 img {
 	vertical-align: top;
 }
+
 h1,
 h2,
 h3,
@@ -27,6 +31,7 @@ h6 {
 	font-weight: inherit;
 	font-size: inherit;
 }
+
 html,
 body {
 	height: 100%;
@@ -35,11 +40,29 @@ body {
 	color: #000;
 	font-family: Montserrat;
 }
+
 .wrapper {
 	min-height: 100%;
 	overflow: hidden;
 }
+
 ._container {
 	max-width: 1045px;
 	margin: 0 auto;
 }
+
+.header {}
+
+.header__container {}
+
+.header__logo {}
+
+.header__menu {}
+
+.menu {}
+
+.menu__list {}
+
+.menu__item {}
+
+.menu__link {}
