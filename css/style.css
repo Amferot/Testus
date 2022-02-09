@@ -51,18 +51,34 @@ body {
 	margin: 0 auto;
 }
 
-.header {}
+.header {
 
-.header__container {}
+}
 
-.header__logo {}
+.header__container {
 
-.header__menu {}
+}
 
-.menu {}
+.header__logo {
 
-.menu__list {}
+}
 
-.menu__item {}
+.header__menu {
 
-.menu__link {}
+}
+
+.menu {
+
+}
+
+.menu__list {
+
+}
+
+.menu__item {
+
+}
+
+.menu__link {
+	
+}
